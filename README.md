@@ -1,4 +1,4 @@
-# Where's Product? — Warehouse Inventory Backend
+# Lokate — Warehouse Inventory Backend
 
 Production-ready backend for multi-warehouse inventory tracking, featuring real-time delivery ETA based on routing and live weather data.
 
